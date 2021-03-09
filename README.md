@@ -1,2 +1,2 @@
-# pandas
+# Pandas
 Jupyter notebook
